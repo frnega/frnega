@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love Petts 
 
-![<Linkdin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 <!--
