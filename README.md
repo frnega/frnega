@@ -5,7 +5,7 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love Petts 
 
-![linkedin](https://img.shields.io/badge/frehiywot-nega-52436a35-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 
