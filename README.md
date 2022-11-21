@@ -5,6 +5,8 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love Petts 
 
+![<Linkdin>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <!--
 **frnega/frnega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
