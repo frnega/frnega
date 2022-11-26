@@ -37,7 +37,10 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/b6e49812-8334-4112-8d1b-b4650f89f7fa" target="blank"><img src="./assets/html-css-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/9ebcced6-e940-46c8-957b-f5e527c48244" target="blank"><img src="./assets/js-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/3486e93c-e6bc-4ff8-a764-edb52e1f5844" target="blank"><img src="./assets/react-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/a489ef50-1244-43c0-93f6-90a4bb9780ba" target="blank"><img src="./assets/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/dfe3b510-abb1-405a-9260-1a5e8046ee0e" target="blank"><img src="./assets/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/255106ae-2a71-4b21-8e67-f3536de9a023" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a> &nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_0.pdf" target="blank"><img src="./assets/azure-ai-fundamentals-600x600.png" width="80"></a> &nbsp; <a href="./assets/Microsoft_Certified_Professional_Certificate_1.pdf" target="blank"><img src="./assets/azure-ai-engineer-600x600.png" width="80"></a>
 
 </p> -->
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="left"> Github status </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
