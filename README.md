@@ -38,11 +38,6 @@
 
 </p> -->
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <h2 align="left"> Github status </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
