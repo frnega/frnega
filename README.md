@@ -3,9 +3,9 @@
 
 <h3 align="center"> I'm a software developer from Ethiopia!</h3>
 
-<p align="center">I have learned software development from Addis Ababa Uiversity and  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
+<p align="center">I have degree in Electrical and Computer enginering from Addid Ababa University ,Masters of science from HiLCoE  and learning to be Full-Stack Developer at  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
-<img align="right" src="https://giphy.com/clips/originals-hacker-desi-hackette-UPCoWbR0zs224kbUNi">
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2Fe6NoX&psig=AOvVaw2qY0g8z063UTD9L3qz_DB-&ust=1669551281166000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjPzYnpy_sCFQAAAAAdAAAAABAE">
 
 - 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -17,7 +17,7 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/frehiywot-nega-52436a35" target="_blank"><img align="center" src="./assets/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/frehiywot-nega-52436a35" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
 ### ✏ Interesting facts about me:
@@ -38,13 +38,13 @@
 
 </p> -->
 
-<h2 align="left"> Github Stats </h2>
+<h2 align="left"> Github status </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnega&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frehiywot" />
-<h2 align='left'>Weekly Coding Stats</h2>
+<!-- <h2 align='left'>Weekly Coding Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frnega&theme=tokyonight" alt="frehiywot" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frnega&theme=tokyonight" alt="frehiywot" />  -->
 
 <!--
 **frnega/frnega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
