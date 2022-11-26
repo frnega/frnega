@@ -16,7 +16,7 @@
 ### 🎯 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/hs_devv" target="_blank"><img align="center" src="./assets/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/frehiywot-nega-52436a35" target="_blank"><img align="center" src="./assets/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
