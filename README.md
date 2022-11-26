@@ -5,7 +5,7 @@
 
 <p align="center">I have degree in Electrical and Computer enginering from Addid Ababa University ,Masters of science from HiLCoE  and learning to be Full-Stack Developer at  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
-<img align="right" src="./images/femaledeveloper.jpg">
+<img align="right" src="./images/femaledeveloper.jpg" style="width=30px">
 
 - 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
