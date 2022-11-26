@@ -5,7 +5,7 @@
 
 <p align="center">I have learned software development from Addis Ababa Uiversity and  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
-<img align="right" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47d31gs3684j0uj8rr0r9va2sit6u8xmm2b4y1jtpt&rid=giphy.gif&ct=g">
+<img align="right" src="hhttps://giphy.com/clips/originals-hacker-desi-hackette-UPCoWbR0zs224kbUNi">
 
 - 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -41,7 +41,7 @@
 <h2 align="left"> Github Stats </h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="Hammad" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="Hammad" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnegae&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnega&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
 <h2 align='left'>Weekly Coding Stats</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frnega&theme=tokyonight" alt="Hammad" />
