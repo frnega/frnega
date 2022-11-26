@@ -5,7 +5,7 @@
 
 <p align="center">I have learned software development from Addis Ababa Uiversity and  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
-<img align="right" src="hhttps://giphy.com/clips/originals-hacker-desi-hackette-UPCoWbR0zs224kbUNi">
+<img align="right" src="https://giphy.com/clips/originals-hacker-desi-hackette-UPCoWbR0zs224kbUNi">
 
 - 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -39,12 +39,12 @@
 </p> -->
 
 <h2 align="left"> Github Stats </h2>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="Hammad" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="Hammad" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnega&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hammad" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnega&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frehiywot" />
 <h2 align='left'>Weekly Coding Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frnega&theme=tokyonight" alt="Hammad" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frnega&theme=tokyonight" alt="frehiywot" />
 
 <!--
 **frnega/frnega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
