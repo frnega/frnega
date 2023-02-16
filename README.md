@@ -11,7 +11,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/frnega?tab=repositories)
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=frnega&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="frehiywot" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=frnega&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="frehiywot" /> </p>](url)-->
 
 ### 🎯 Reach me on:
 
