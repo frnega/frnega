@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Frehiywot+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
-<h3 align="center"> I'm a software developer from Ethiopia!</h3>
+<h3 align="center"> I'm a Software Developer from Ethiopia!</h3>
 
 <p align="center">I have degree in Electrical and Computer enginering from Addid Ababa University ,Masters of science from HiLCoE  and learning to be Full-Stack Developer at  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
@@ -37,8 +37,8 @@
 </p> -->
 <br>
 <h2 align="left"> Github status </h2>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=frnega&show_icons=true&locale=en&theme=tokyonight" alt="frehiywot" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=frnega&theme=tokyonight" alt="frehiywot" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frnega&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="frehiywot" />
 <!-- <h2 align='left'>Weekly Coding Stats</h2>
 
