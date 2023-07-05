@@ -3,7 +3,7 @@
 
 <h3 align="center"> I'm a Software Developer from Ethiopia!</h3>
 
-<p align="center">I have degree in Electrical and Computer enginering from Addid Ababa University ,Masters of science from HiLCoE  and learning to be Full-Stack Developer at  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
+<p align="center">I have a degree in Electrical and Computer engineering from Addis Ababa University, a Master of Science from HiLCoE,  and got a Full-Stack Developer certificate from  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
 - 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -20,9 +20,9 @@
 
 ### ✏ Interesting facts about me:
 
-- **Goals**: By the end of this year, I intend to become a great full stack developer
+- **Goals**: By the end of this year, I intend to become a great Full-Stack Developer
 - **Hobbies**: Sports ⚽  Movies 🎥
-- **Fun Fact**: My most used line of code is `git clone` and my only flex is `display: flex;`
+- **Fun Fact**: My most used line of code is 'git clone' and my only flex is `display: flex;`
 
 <!-- <h2 align="left">Skills</h2>
 <p align="center">
