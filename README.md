@@ -5,7 +5,7 @@
 
 <p align="center">I have a degree in Electrical and Computer engineering from Addis Ababa University, a Master of Science from HiLCoE,  and got a Full-Stack Developer certificate from  Microverse. I spend most of my time learning different frameworks and technologies related to web development. I'm excited to solve world problems or invent something exciting with the power of coding that I have learned and still learning.</p>
 
-- 👩‍💻 I’m a **learning to be Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m a ** Full-Stack Software Developer** trained in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
 - 💻 All **my projects** are available [here.](https://github.com/frnega?tab=repositories)
 
